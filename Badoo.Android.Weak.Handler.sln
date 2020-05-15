@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Badoo.Android.Weak.Handler", "Badoo.Android.Weak.Handler\Badoo.Android.Weak.Handler.csproj", "{AC55D2EF-3340-4E89-A35E-C40B259E9CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAndroidWeakHandler", "DemoAndroidWeakHandler\DemoAndroidWeakHandler.csproj", "{6754F3B0-DD3C-43AB-86EB-75C027FC6656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC55D2EF-3340-4E89-A35E-C40B259E9CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC55D2EF-3340-4E89-A35E-C40B259E9CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC55D2EF-3340-4E89-A35E-C40B259E9CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC55D2EF-3340-4E89-A35E-C40B259E9CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6754F3B0-DD3C-43AB-86EB-75C027FC6656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6754F3B0-DD3C-43AB-86EB-75C027FC6656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6754F3B0-DD3C-43AB-86EB-75C027FC6656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6754F3B0-DD3C-43AB-86EB-75C027FC6656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		version = 1.2
+	EndGlobalSection
+EndGlobal

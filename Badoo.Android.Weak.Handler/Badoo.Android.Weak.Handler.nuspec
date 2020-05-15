@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+    <id>Badoo.Android.Weak.Handler</id>
+    <version>1.1</version>
+    <title>Badoo.Android.Weak.Handler</title>
+    <authors>Bandyer</authors>
+    <owners>Bandyer</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>bandyer,android,badoo,android-weak-handler,handler,xamarin</tags>
+    <license type="expression">Apache-2.0</license>
+    <description>Badoo's Android-Weak-Handler binding for Xamarin</description>
+    <summary>Badoo's Android-Weak-Handler binding for Xamarin</summary>
+    <copyright>Copyright © Bandyer</copyright>
+    <projectUrl>https://github.com/Bandyer/BadoooAndroidWeakHandlerXamarinBindings</projectUrl>
+    <dependencies>
+        <group targetFramework="MonoAndroid">
+        </group>
+    </dependencies>
+    </metadata>
+    <files>
+        <file src="./bin/Release/Badoo.Android.Weak.Handler.*" target="lib/MonoAndroid" />
+    </files>
+</package>
